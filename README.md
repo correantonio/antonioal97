@@ -49,11 +49,11 @@ Here are some ideas to get you started:
   </a>
   -->
 </p>
-
 ------
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antonioal97&show_icons=true&locale=en&layout=compact&theme=buefy" alt="antonioal97" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=buefy" alt="antonioal97" />
+  <br />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=buefy" alt="antonioal97"/>
 </p>
 
 
