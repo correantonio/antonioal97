@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ant%C3%B4nio-alberto-aa8501185/](https://www.linkedin.com/in/ant%C3%B4nio-alberto-aa8501185/);
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
   <a href="https://twitter.com/antonioal97" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="antonioal97" height="30" width="40" />
   </a>
