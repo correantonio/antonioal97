@@ -33,9 +33,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antonioal97&show_icons=true&locale=en&layout=compact&theme=dracula" alt="antonioal97" /></p>
--->
-
 - 🌱 No momento estou estudando sobre `UI Design`, `Analysis and Systems Development` e `JavaScript`.
 
 - 💬 Já conheço estas tecnologias **HTML5, CSS3, SASS, C, PHP, MySQL** apesar de não ser o maior guru do mundo nelas, me viro bem quando preciso utiliza-las.
