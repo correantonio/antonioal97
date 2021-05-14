@@ -15,19 +15,19 @@ Here are some ideas to get you started:
 <h1 align="center">👋 Hi there, I'm Antônio Alberto</h1>
 <p align="center"> Front-end developer and UI Designer.</p>
 <p align="center">
-  <a href="https://fb.com/antonioal97/" target="blank">
+  <a href="https://fb.com/antonioal97/" target="_blank" rel="noopener noreferrer">
     <!-- <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/antonioal97/" height="30" width="40" /> -->
     <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/antonioal97/" target="blank">
+  <a href="https://instagram.com/antonioal97/" target="_blank" rel="noopener noreferrer">
     <!-- <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/antonioal97/" height="30" width="40" /> -->
     <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-    <a href="https://linkedin.com/in/antônio-alberto-aa8501185/" target="blank">
+    <a href="https://linkedin.com/in/antônio-alberto-aa8501185/" target="_blank" rel="noopener noreferrer">
     <!-- <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://github.com/antonioal97" height="30" width="40" /> -->
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-    <a href="https://twitter.com/antonioal97" target="blank">
+    <a href="https://twitter.com/antonioal97" target="_blank" rel="noopener noreferrer">
     <!-- <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="antonioal97" height="30" width="40" /> -->
     <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 <p align="center">Follow me!</p>
 <p align="center">
-<a href="https://www.instagram.com/antonioal97/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/ant%C3%B4nio-alberto-aa8501185/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/antonioal97/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/ant%C3%B4nio-alberto-aa8501185/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
