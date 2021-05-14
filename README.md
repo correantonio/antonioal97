@@ -13,24 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">👋 Hi there, I'm Antônio Alberto</h1>
-<h3 align="center">" A simple student but a different people in progress ".</h3>
-
-<!--
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antonioal97&show_icons=true&locale=en&layout=compact&theme=dracula" alt="antonioal97" /></p>
--->
-
-- 🌱 I’m currently learning **UI Design, Analysis and Systems Development**
-
-- 💬 Ask me about **HTML5, CSS3, SASS, C, PHP, MySQL, ES6.**
-
-- 📫 How to reach me **antonioalb97@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/ant%C3%B4nio-alberto-aa8501185/](https://www.linkedin.com/in/ant%C3%B4nio-alberto-aa8501185/);
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center"> Front-end developer and UI Designer.</p>
+<p align="center">
   <a href="https://fb.com/antonioal97/" target="blank">
     <!-- <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/antonioal97/" height="30" width="40" /> -->
     <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
@@ -47,119 +31,25 @@ Here are some ideas to get you started:
     <!-- <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="antonioal97" height="30" width="40" /> -->
     <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <!--
-  <a href="https://discord.gg/antonioal97#5673" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="antonioal97#5673" height="30" width="40" />
-  </a>
-  -->
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antonioal97&show_icons=true&locale=en&layout=compact&theme=buefy" alt="antonioal97" /></p>  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=buefy" alt="antonioal97"/></p>
 
-------------------------------
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antonioal97&show_icons=true&locale=en&layout=compact&theme=dracula" alt="antonioal97" /></p>
+-->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a>
-    <a href="https://sass-lang.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-    </a>  
-    &ensp;
-    <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-    </a>  
-    &ensp;
-    <a href="https://www.figma.com/" target="_blank"> 
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-    </a>
-    <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
-      <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
-    </a>  
-    &ensp;
-    <a href="https://git-scm.com/" target="_blank"> 
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a>  
-    &ensp;
-    <a href="https://www.cprogramming.com/" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-    </a>
-    <a href="https://www.php.net" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-    </a>
-    <a href="https://www.postgresql.org" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-    </a>  
+- 🌱 No momento estou estudando sobre `UI Design`, `Analysis and Systems Development` e `JavaScript`.
+
+- 💬 Já conheço estas tecnologias **HTML5, CSS3, SASS, C, PHP, MySQL** apesar de não ser o maior guru do mundo nelas, me viro bem quando preciso utiliza-las.
+
+- 📫 Precisa de ajuda em algo? Me envia uma mensagem meu insta [@antonioal97](https://www.instagram.com/antonioal97/).
+
+- 📄 Você pode conferir algumas das minhas formações através do meu [Linkedin](https://www.linkedin.com/in/ant%C3%B4nio-alberto-aa8501185/), da uma passada por lá e aproveita pra me seguir ;)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonioal97&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ------------------------------
 
 <h2>Follow me!</h2>
 <a href="https://www.instagram.com/antonioal97/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/ant%C3%B4nio-alberto-aa8501185/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
-
-<!-- <p align="left"> 
-  ✅ <strong>Front end</strong>:
-  <p align="left">
-    <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a>
-    <a href="https://sass-lang.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-    </a>
-  </p>
-  ✅ <strong>System</strong>:
-  <p align="left">
-    <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-    </a>
-  </p>
-  ✅ <strong>Prototyping</strong>:
-  <p align="left">
-    <a href="https://www.figma.com/" target="_blank"> 
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-    </a>
-    <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
-      <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
-    </a>
-  </p>
-  ✅ <strong>Code versionament</strong>:
-  <p align="left">
-    <a href="https://git-scm.com/" target="_blank"> 
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a>
-  </p>
-  ✅ <strong>Back end</strong>:
-  <p align="left">
-    <a href="https://www.cprogramming.com/" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-    </a>
-    <a href="https://www.php.net" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-    </a>
-    <a href="https://www.postgresql.org" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-    </a>
-  </p>
-</p>
-</p> -->
-
