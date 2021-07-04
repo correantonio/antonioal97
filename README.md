@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <div align="center">
   <h3>👋 Hi there,</h3>
   <p>I'm</p>
-  <h1><b>Antônio Alberto<b></h1>
+  <h1><b>Antônio Alberto</b></h1>
 </div>
 <h4 align="center">Front-end developer and UI Designer.</h4>
 
