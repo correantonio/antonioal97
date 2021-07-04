@@ -12,8 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">👋 Hi there, I'm Antônio Alberto</h1>
-<p align="center"> Front-end developer and UI Designer.</p>
+<div align="center">
+  <h3>👋 Hi there,</h3>
+  <p>I'm</p>
+  <h1><b>Antônio Alberto<b></h1>
+</div>
+<h4 align="center">Front-end developer and UI Designer.</h4>
+
 <p align="center">
   <a href="https://fb.com/antonioal97/" target="_blank" rel="noopener noreferrer">
     <!-- <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/antonioal97/" height="30" width="40" /> -->
@@ -32,6 +37,7 @@ Here are some ideas to get you started:
     <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
+<br>
 
 - 🌱 No momento estou estudando sobre `UI Design`, `Analysis and Systems Development` e `JavaScript`.
 
@@ -41,7 +47,17 @@ Here are some ideas to get you started:
 
 - 📄 Você pode conferir algumas das minhas formações através do meu [Linkedin](https://www.linkedin.com/in/ant%C3%B4nio-alberto-aa8501185/), da uma passada por lá e aproveita pra me seguir ;)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonioal97&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=antonioal97&theme=material-palenight&show_icons=true" alt=""Top langs>
+  </a>
+
+  <!--
+    MARKDOWN VERSION
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonioal97&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  -->
+</div>
 
 
 
