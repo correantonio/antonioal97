@@ -1,70 +1,49 @@
-<!--
-**antonioal97/antonioal97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img align="right" height="597em" src="https://raw.githubusercontent.com/gist/antonioal97/a45ec4d224ebd48a1af9dc53fe3fc05c/raw/e5735137c2e00fbbac010902a960053ddb064b2b/gitcard.svg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Olá, eu sou o Antônio Alberto!</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=antonioal97&color=brightgreen" alt="Profile views" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align="center">
-  <h3>👋 Hi there,</h3>
-  <p>I'm</p>
-  <h1><b>Antônio Alberto</b></h1>
-</div>
-<h4 align="center">Front-end developer and UI Designer.</h4>
+- 👊 Analista e desenvolvedor de sistemas, dev junior e aprimorando 
 
-<p align="center">
-  <a href="https://fb.com/antonioal97/" target="_blank" rel="noopener noreferrer">
-    <!-- <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/antonioal97/" height="30" width="40" /> -->
-    <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/antonioal97/" target="_blank" rel="noopener noreferrer">
-    <!-- <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/antonioal97/" height="30" width="40" /> -->
-    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-    <a href="https://linkedin.com/in/antônio-alberto-aa8501185/" target="_blank" rel="noopener noreferrer">
-    <!-- <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://github.com/antonioal97" height="30" width="40" /> -->
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-    <a href="https://twitter.com/antonioal97" target="_blank" rel="noopener noreferrer">
-    <!-- <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="antonioal97" height="30" width="40" /> -->
-    <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
+- 👨‍💻 All of my projects are available at [@antonioal97](https://github.com/antonioal97)
+
+- 💬 As techs que eu tenho utilizado no momento são **JavaScript, HTML, CSS, SQL, Node.JS** então sinta-se a vontade para me perguntar sobre elas!
+
+<br><br>
+
+## 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=antonioal97&show_icons=true&theme=vision-friendly-dark" alt="Antônio Alberto stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioal97&layout=compact&theme=vision-friendly-dark" alt="Antônio Alberto most useds languages"/>
 </p>
-<br>
 
-- 🌱 No momento estou estudando sobre `UI Design`, `Analysis and Systems Development` e `JavaScript`.
+<br><br>
 
-- 💬 Já conheço estas tecnologias **HTML5, CSS3, SASS, C, PHP, MySQL** apesar de não ser o maior guru do mundo nelas, me viro bem quando preciso utiliza-las.
+## 👨🏽‍🦲 &nbsp;Social Links
 
-- 📫 Precisa de ajuda em algo? Me envia uma mensagem meu insta [@antonioal97](https://www.instagram.com/antonioal97/).
-
-- 📄 Você pode conferir algumas das minhas formações através do meu [Linkedin](https://www.linkedin.com/in/ant%C3%B4nio-alberto-aa8501185/), da uma passada por lá e aproveita pra me seguir ;)
-
-<div align="center">
-  <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioal97&layout=compact&theme=material-palenight" alt=""Top langs>
-  </a>
-
-  <!--
-    MARKDOWN VERSION
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonioal97&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  -->
-</div>
-
-
-
-------------------------------
-
-<p align="center">Follow me!</p>
-<p align="center">
-<a href="https://www.instagram.com/antonioal97/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/ant%C3%B4nio-alberto-aa8501185/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<p align="left" style="background:slateblue">
+<a href="https://www.linkedin.com/in/ant%C3%B4nio-alberto-aa8501185/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-antonioal97-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/antonioal97" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-antonioal97-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="https://www.facebook.com/antonioal97/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-antonioal97-05122A?style=flat&logo=facebook" alt="Facebook"/>
+</a>
 </p>
