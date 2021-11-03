@@ -1,5 +1,5 @@
 
-<img align="right" height="597em" src="https://raw.githubusercontent.com/gist/antonioal97/a45ec4d224ebd48a1af9dc53fe3fc05c/raw/e5735137c2e00fbbac010902a960053ddb064b2b/gitcard.svg"/>
+<!-- <img align="right" height="597em" src="https://raw.githubusercontent.com/gist/antonioal97/a45ec4d224ebd48a1af9dc53fe3fc05c/raw/e5735137c2e00fbbac010902a960053ddb064b2b/gitcard.svg"/> -->
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Olá, eu sou o Antônio Alberto!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antonioal97&color=brightgreen" alt="Profile views" /> </p>
 
