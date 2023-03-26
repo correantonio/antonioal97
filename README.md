@@ -2,12 +2,12 @@
 
 # 😎 Antônio Alberto!
 
-### Olá pessoas,
+### Olá pessoas, sou
 
 - 🥷 `Formado` em Análise e Desenvolvimetno de Sistemas,
 - 👶 Dev. `Frontedn Jr`. e melhorando,
 
-Obrigado por virem! Viram meus repositórios ? Não? Da uma olhada lá e se tiver alguma sugestão, deixa seu PR! <br>
+**Obrigado por virem**! Vejam meus repositórios e se tiver alguma sugestão deixe seu PR! <br>
 
 <br><br>
 <br><br>
@@ -32,8 +32,13 @@ Obrigado por virem! Viram meus repositórios ? Não? Da uma olhada lá e se tive
 
 > As techs que mais utilizo em meu dia a dia são **React, HTML, CSS, Wordpress**!
 
-Quer começar um projeto com uma essas techs? Me manda uma DM que a gente conversa!
+Quer começar um novo projeto com alguma dessas techs? Me manda uma [DM](https://instagram.com/antonioal97) que a gente conversa!
+
+<br><br>
+
 ## 🔥 Social Links
+
+Deem uma olhada em alguns dos projetos de design que publico no meu [Behance](https://www.behance.net/antonioal97) e no meu [Linkedin](https://www.linkedin.com/in/antonioal97/).
 
 [![Instagram](./social/instagram.svg)](https://instagram.com/antonioal97)
 [![Linkedin](./social/linkedin.svg)](https://www.linkedin.com/in/antonioal97/)
