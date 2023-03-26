@@ -1,7 +1,10 @@
 <img src="git.svg" width="300px" min-width="300px" max-width="300px" align="right" alt="Logo Antônio Alberto on Github">
 
-<h1 align="left">😎 Antônio Alberto!</h1>
-Olá pessoas, obrigado por virem! Viram meus repositórios ? Não? Da uma olhada lá e se tiver alguma sugestão, deixa seu PR! <br>
+# 😎 Antônio Alberto!
+
+### Olá pessoas,
+
+obrigado por virem! Viram meus repositórios ? Não? Da uma olhada lá e se tiver alguma sugestão, deixa seu PR! <br>
 🥷 Formado em Análise e Desenvolvimetno de Sistemas, <br>
 👶 Dev. Frontedn Jr. e melhorando,
 
@@ -10,7 +13,7 @@ Olá pessoas, obrigado por virem! Viram meus repositórios ? Não? Da uma olhada
 <br><br>
 <br><br>
 
-## 🛠 &nbsp;Ferramentas de criação
+## 🪄 &nbsp;Ferramentas de criação
 
 ![ReactJS](./stacks/react.svg)&nbsp;
 ![Typescript](./stacks/typescript.svg)&nbsp;
