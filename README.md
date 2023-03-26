@@ -4,9 +4,10 @@
 
 ### Olá pessoas,
 
-obrigado por virem! Viram meus repositórios ? Não? Da uma olhada lá e se tiver alguma sugestão, deixa seu PR! <br>
-🥷 Formado em Análise e Desenvolvimetno de Sistemas, <br>
-👶 Dev. Frontedn Jr. e melhorando,
+- 🥷 `Formado` em Análise e Desenvolvimetno de Sistemas,
+- 👶 Dev. `Frontedn Jr`. e melhorando,
+
+Obrigado por virem! Viram meus repositórios ? Não? Da uma olhada lá e se tiver alguma sugestão, deixa seu PR! <br>
 
 <br><br>
 <br><br>
@@ -32,9 +33,6 @@ obrigado por virem! Viram meus repositórios ? Não? Da uma olhada lá e se tive
 > As techs que mais utilizo em meu dia a dia são **React, HTML, CSS, Wordpress**!
 
 Quer começar um projeto com uma essas techs? Me manda uma DM que a gente conversa!
-<br><br>
-<br><br>
-
 ## 🔥 Social Links
 
 [![Instagram](./social/instagram.svg)](https://instagram.com/antonioal97)
