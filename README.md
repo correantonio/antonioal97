@@ -5,8 +5,9 @@ Olá pessoas, obrigado por virem! Viram meus repositórios ? Não? Da uma olhada
 🥷 Formado em Análise e Desenvolvimetno de Sistemas, <br>
 👶 Dev. Frontedn Jr. e melhorando,
 
-
-
+<br><br>
+<br><br>
+<br><br>
 <br><br>
 
 ## 🛠 &nbsp;Ferramentas de criação
@@ -28,9 +29,8 @@ Olá pessoas, obrigado por virem! Viram meus repositórios ? Não? Da uma olhada
 > As techs que mais utilizo em meu dia a dia são **React, HTML, CSS, Wordpress**!
 
 Quer começar um projeto com uma essas techs? Me manda uma DM que a gente conversa!
-
 <br><br>
-
+<br><br>
 
 ## 🔥 Social Links
 
